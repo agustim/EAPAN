@@ -1,6 +1,6 @@
 # Ensenyar A Programa A Nens/es
 
-## BLA BLA BLA
+## Introducció
 1. Què és una ordinador i què no és
 
 ## Principant
