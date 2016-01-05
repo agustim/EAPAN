@@ -1,7 +1,7 @@
 # Ensenyar A Programa A Nens/es
 
 ## BLA BLA BLA
-### Què és una ordinador i què no és
+1. Què és una ordinador i què no és
 
 ## Principant
 
