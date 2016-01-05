@@ -23,3 +23,5 @@ Els llenguatges d'alt nivell tenen l'aventatge d'estar lluny de la màquina i ap
 
 En el cas de Ruby la cosa és molt més clara, ja que hi ha certes parts d'ell que ens faciliten molt les coses.
 
+
+[Tornar](readme.md)
