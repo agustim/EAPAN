@@ -4,19 +4,20 @@
 ### Què és una ordinador i què no és
 
 ## Principant
-### Primer programa
-### Números
-### Lletres
-### Variable i assignació
-### Resum + Entrenament
+
+1. Primer programa
+2. Números
+3. Lletres
+4. Variable i assignació
+5. Resum + Entrenament
 
 ## Mig
-### Accions
-### Matematiques avançades
-### Fluxe d'un programa (Canvis i repeticions)
-### Llistes (Construcció i recorregut)
+1. Accions
+2. Matematiques avançades
+3. Fluxe d'un programa (Canvis i repeticions)
+4. Llistes (Construcció i recorregut)
 
 ## Avançat
-### Escriure les teves Accions (Metodes)
-### Definir Objectes (Classes)
+1. Escriure les teves Accions (Metodes)
+2. Definir Objectes (Classes)
 
